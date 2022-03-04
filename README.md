@@ -22,7 +22,7 @@
 - 영상편집도구 : Premire Pro
 
 ## 대표 이미지
-![image01](이미지링크)
+![슬라이드1](https://user-images.githubusercontent.com/39328049/156705800-0f117733-82e9-4031-b42f-41857a340576.PNG)
 
 ## 서비스 URL
 www.naver.com
