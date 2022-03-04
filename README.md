@@ -34,5 +34,8 @@
 ![슬라이드18](https://user-images.githubusercontent.com/39328049/156706084-ad630d51-65e7-4f86-ab6f-03d1d6391cab.PNG)
 
 ## 사용 부품
-[주문리스트.xlsx](https://github.com/2022-SMHRD-KDT-IoT-2/MakeMeUp/files/8183293/default.xlsx)
+- [주문리스트.xlsx](https://github.com/2022-SMHRD-KDT-IoT-2/MakeMeUp/files/8183293/default.xlsx)
+![3차발표PPT_누르미](https://user-images.githubusercontent.com/39328049/156707543-6fc5cc3e-6ca6-4de0-999e-d91a3c06eec4.png)
+
+## 회로도
 
