@@ -24,6 +24,15 @@
 ## 대표 이미지
 ![슬라이드1](https://user-images.githubusercontent.com/39328049/156705800-0f117733-82e9-4031-b42f-41857a340576.PNG)
 
+
+## 기능 흐름도
+- 디스펜서(사용자 감지 및 자동 분사)
+![슬라이드19](https://user-images.githubusercontent.com/39328049/156706081-59c90440-cc60-4504-a39a-fdd610c12c08.PNG)
+- 스마트미러(사용자 얼굴 인식 및 정보 안내)
+![슬라이드17](https://user-images.githubusercontent.com/39328049/156706083-a264247f-d0c8-4e42-a324-f65eefe3785f.PNG)
+- 모바일 어플리케이션(화장품 정보 등록/수정/삭제)
+![슬라이드18](https://user-images.githubusercontent.com/39328049/156706084-ad630d51-65e7-4f86-ab6f-03d1d6391cab.PNG)
+
 ## 서비스 URL
 www.naver.com
 ![image](https://user-images.githubusercontent.com/39328049/156703107-28d53322-8085-4807-89d2-ca17acf738de.png)
