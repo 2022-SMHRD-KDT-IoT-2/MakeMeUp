@@ -33,6 +33,6 @@
 - 모바일 어플리케이션(화장품 정보 등록/수정/삭제)
 ![슬라이드18](https://user-images.githubusercontent.com/39328049/156706084-ad630d51-65e7-4f86-ab6f-03d1d6391cab.PNG)
 
-## 서비스 URL
-www.naver.com
-![image](https://user-images.githubusercontent.com/39328049/156703107-28d53322-8085-4807-89d2-ca17acf738de.png)
+## 사용 부품
+[주문리스트.xlsx](https://github.com/2022-SMHRD-KDT-IoT-2/MakeMeUp/files/8183293/default.xlsx)
+
