@@ -44,6 +44,12 @@
 ![회로설계도샘플](https://user-images.githubusercontent.com/39328049/156707842-544c4022-8505-4593-8990-5664dc02a968.png)
 
 ## 8. 활용 사진 예시
+- 완성 누르미 제품
+![슬라이드23](https://user-images.githubusercontent.com/39328049/156709432-deea3180-58d0-40de-8539-61cbedb6a633.PNG)
+- 어플리케이션 화면
+![슬라이드24](https://user-images.githubusercontent.com/39328049/156709436-15211951-e7f6-4bc0-9435-ff558c1664bf.PNG)
+![슬라이드25](https://user-images.githubusercontent.com/39328049/156709437-3bed8cf1-bd8b-4c43-bc1e-6ff5577b19b0.PNG)
+
 
 ## 9. 제작일정
 | 일정           | 상세내용 | 
